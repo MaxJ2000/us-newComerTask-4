@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "bin",
+        "module": "commonjs",
+        "sourceMap": true,
+        "strict": true,
+        "removeComments": false,
+        "watch": true,
+        "allowSyntheticDefaultImports":true
+    },
+    "exclude": [
+        "node_modules",
+    ]
+}
